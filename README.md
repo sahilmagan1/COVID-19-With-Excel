@@ -18,19 +18,20 @@ Extract the file to your local repository, and and continuously push commits to 
 
 1. Begin cleaning the data by creating data tables and filling blank rows. Reformat dates and values to observe the entire table.
 2. Check for duplicates.
-3. TBD
-4. TBD
+3. Create a new sheet labeled *"COVID19 By Month"* for COVID-19 Deaths grouped by months as we would like to see the trend of diabetes related deaths over time.
+4. Delete the original sheet labeled *"COVID19 Deaths With Conditions"*. 
+5. Save a new file renamed to **"Diabetes and COVID19 v2"**. This will reduce the size of the document significantly, and will make loading times quicker. 
 
 ### Pivot Tables
 
-1. Save a new file and rename to **"Diabetes and COVID19 v2"**. 
+1. Save a new file and rename to **"Diabetes and COVID19 v3"**. 
 2. TBD
 3. Use Forecasting and Variance to conduct analysis.
 4. Pressure test to confirm analysis.
 
 ### Presentation
 
-1. Save a new file and rename to **"Diabetes and COVID19 v3"**.
+1. Save a new file and rename to **"Diabetes and COVID19 v4"**.
 2. TBD
 3. TBD
 4. TBD
